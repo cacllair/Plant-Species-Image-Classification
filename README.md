@@ -24,5 +24,6 @@ Candy Apple Clair L. Rayon
 
 
 <b>1. Escobilla</b>
+
 ![14](https://github.com/user-attachments/assets/bf31c54e-1217-4901-820b-60450c0ad25d)
 

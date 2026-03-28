@@ -27,3 +27,9 @@ Candy Apple Clair L. Rayon
 
 ![14](https://github.com/user-attachments/assets/bf31c54e-1217-4901-820b-60450c0ad25d)
 
+<b>Common Name: Escobilla </b>
+<b>Scientific Name: Sida Cuta </b>
+
+<b>Description:</b>
+ A hardy, upright shrub characterized by its small, saw-toothed leaves and pale yellow flowers. It is widely recognized for its tough, woody stems, which are traditionally bundled together to create makeshift brooms. In herbal medicine, it is often used for its antibacterial and anti-inflammatory properties.
+

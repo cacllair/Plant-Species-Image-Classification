@@ -34,7 +34,7 @@ Candy Apple Clair L. Rayon
 <b>Description:</b>
  A hardy, upright shrub characterized by its small, saw-toothed leaves and pale yellow flowers. It is widely recognized for its tough, woody stems, which are traditionally bundled together to create makeshift brooms. In herbal medicine, it is often used for its antibacterial and anti-inflammatory properties.
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 <b>2. Hilbas</b>
@@ -48,8 +48,63 @@ ________________________________________________________________________________
 <b>Description:</b>
  A fragrant, perennial herb characterized by its deeply lobed, grayish-green leaves with silvery-white undersides. It is highly valued in traditional medicine for its aromatic properties and is commonly used to treat digestive issues, skin irritations, and respiratory conditions. In many local cultures, it is also known for its use in herbal decoctions and as a natural insect repellent.
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________
- 
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+<b>3. Pansit-pansitan</b> 
+
+![2](https://github.com/user-attachments/assets/16e78e79-32b0-4047-8502-c91a9be60098)
+
+<b>Common Name:</b> Clearweed, Pansit-pansitan, or Shiny Bush
+
+<b>Scientific Name: </b> Peperomia pellucida
+
+<b>Description:</b>
+ A small, succulent herb with heart-shaped, fleshy leaves that have a shiny, waxy appearance. It is easily identified by its translucent, watery stems and tiny, spike-like flowers. In the Philippines, it is a well-known medicinal plant commonly used to lower uric acid levels and treat gout or arthritis.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+<b>4. Yerba Buena</b> 
+
+![18](https://github.com/user-attachments/assets/b0ac32d8-b74a-4545-aec7-d1eb531e1625)
+
+<b>Common Name:</b> Peppermint, Spearmint, or Marsh Mint
+
+<b>Scientific Name: </b> Clinopodium Douglasii
+
+<b>Description:</b>
+ A sprawling, aromatic herb belonging to the mint family. It is easily identified by its small, oval, serrated leaves that grow in opposite pairs along a creeping stem. In the Philippines, it is a well-known medicinal plant primarily used for its analgesic properties to relieve pain, such as headaches and toothaches, and for its refreshing, minty scent in herbal teas.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+<b>5. Baho-baho</b> 
+
+![195](https://github.com/user-attachments/assets/fb969bde-67b5-46f8-b9fc-37936f4f3ca7)
+
+<b>Common Name:</b> Wild Sage, Tickberry, or Lantana
+
+<b>Scientific Name: </b> Lantana camara
+
+<b>Description:</b>
+ A hardy, aromatic shrub known for its clusters of small, multi-colored flowers that often change from yellow to orange or red. It has rough, sandpaper-like leaves with serrated edges and a very distinct, pungent odor when crushed (which gives it the local name "Baho-baho"). While it is considered an invasive weed in some areas, it is traditionally used in herbal medicine for treating skin itches, wounds, and rheumatism.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+<b>6. Hagonoy</b> 
+
+![244](https://github.com/user-attachments/assets/760199ef-62a5-49ac-a24c-7aa451ab4699)
+
+<b>Common Name:</b> Devil Weed, Siam Weed, or Christmas Bush
+
+<b>Scientific Name: </b> Chromolaena Odorata
+
+<b>Description:</b>
+ A fast-growing, perennial shrub characterized by its triangular or egg-shaped leaves with three distinct veins and serrated edges. It produces clusters of pale lilac or white tubular flowers. In the Philippines, it is widely used in traditional medicine as a powerful "hemostatic" to stop bleeding from wounds and cuts due to its rapid blood-clotting properties.
+
+
 
 
 

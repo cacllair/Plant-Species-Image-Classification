@@ -303,3 +303,171 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 
+--------------<b>C. Model Training Details</b>--------------
+
+<b>● Epochs:</b> 52
+
+<b>● Batch Size:</b> 16
+
+<b>● Learning Rate:</b> 0.001
+
+-------------<b>Number of images per class</b>
+
+<b>● Escobilla: </b> 250
+
+<b>● Hilbas: </b> 250
+
+<b>● Pansit-pansitan: </b> 250
+
+<b>● Yerba buena: </b> 250
+
+<b>● Baho-baho: </b> 250
+
+<b>● Hagonoy: </b> 250
+
+<b>● Sampasampalokan: </b> 250
+
+<b>● Makahiya: </b> 250
+
+<b>● Mansanitas: </b> 250
+
+<b>● Sambong: </b> 250
+
+<b>● Mayana: </b> 250
+
+<b>● Niyog-niyogan: </b> 250
+
+<b>● kandikandilaan: </b> 250
+
+<b>● Talinum triangulare: </b> 250
+
+<b>● Jathopra(Tuba-Tuba): </b> 250
+
+<b>● Bugang: </b> 250
+
+<b>● Paragis: </b> 250
+
+<b>● Turkey berry: </b> 250
+
+<b>● Busikad: </b> 250
+
+<b>● Tawa-tawa: </b> 250
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+--------------<b>D. Model Evaluation</b>--------------
+
+<b> Confusion matrix </b>
+
+<img width="419" height="890" alt="Screenshot 2026-03-29 020646" src="https://github.com/user-attachments/assets/58eaa7cf-f494-4594-8500-df4a186f0ce2" />
+
+<img width="422" height="871" alt="Screenshot 2026-03-29 020743" src="https://github.com/user-attachments/assets/d77d88ed-7d41-4343-af78-ff326ad55a55" />
+
+<img width="420" height="877" alt="Screenshot 2026-03-29 020811" src="https://github.com/user-attachments/assets/bd0c5d35-d80f-4f42-8029-a17f9c992191" />
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+<b> Accuracy per class </b>
+
+<img width="1918" height="912" alt="Screenshot 2026-03-29 021105" src="https://github.com/user-attachments/assets/dcf5720e-8409-4a5b-b0d2-2c5864009dc0" />
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+<b> Overall model accuracy </b>
+
+<img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/9971e29f-b2fc-4716-8a23-890770806763" />
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+--------------<b>E. Model Testing</b>--------------
+
+<b> Test 1 - Escobilla </b>
+
+<img width="868" height="876" alt="image" src="https://github.com/user-attachments/assets/28d70585-374d-46de-9442-9932284dac36" />
+
+<b> Test 2 - Paragis </b>
+
+<img width="867" height="875" alt="image" src="https://github.com/user-attachments/assets/2e1918ec-44c3-4740-84d7-9500728e346a" />
+
+<img width="808" height="875" alt="image" src="https://github.com/user-attachments/assets/35a99e54-1ec9-4b2d-bbae-a406debb4597" />
+
+<b> Test 3 - Hilbas </b>
+
+<img width="828" height="827" alt="image" src="https://github.com/user-attachments/assets/25be0962-93ef-41bc-acf1-2dbd1cb67111" />
+
+<b> Test 4 - Pansit-pansitan </b>
+
+<img width="760" height="872" alt="image" src="https://github.com/user-attachments/assets/ee014376-9347-4e09-b166-f47ab5632589" />
+
+<b> Test 5 - Hagonoy </b>
+
+<img width="737" height="856" alt="image" src="https://github.com/user-attachments/assets/0586c7b5-f640-4f36-9ed1-e120b30940c8" />
+
+<b> Test 6 - Sambong </b>
+
+<img width="735" height="800" alt="image" src="https://github.com/user-attachments/assets/c7b2e05f-10f1-4e4f-a87e-fe9b53963b0f" />
+
+<img width="706" height="745" alt="image" src="https://github.com/user-attachments/assets/c0e3b930-a59c-4f4d-bd97-69e24fda8dac" />
+
+<b> Test 7 - Jathopra(Tuba-Tuba)</b>
+
+<img width="737" height="788" alt="image" src="https://github.com/user-attachments/assets/4f09054d-9ec6-44c1-b660-006a4bb81383" />
+
+<img width="762" height="772" alt="image" src="https://github.com/user-attachments/assets/08dbcb3c-aba4-4c8e-881d-36aae3ee350d" />
+
+<b> Test 8 - Turkey berry</b>
+
+<img width="747" height="757" alt="image" src="https://github.com/user-attachments/assets/71d96b71-8cc9-463d-b4df-e531ec73736a" />
+
+<img width="732" height="773" alt="image" src="https://github.com/user-attachments/assets/6a727016-cf61-47ad-a8ed-7e60be0be3cf" />
+
+<b> Test 9 - Busikad</b>
+
+<img width="775" height="886" alt="image" src="https://github.com/user-attachments/assets/6ec98730-5b38-43d3-a49c-99205c0e776d" />
+
+<img width="712" height="803" alt="image" src="https://github.com/user-attachments/assets/f336c739-145f-48fd-a390-d08cb328551c" />
+
+<b> Test 10 - Talinum triangulare</b>
+
+<img width="745" height="810" alt="image" src="https://github.com/user-attachments/assets/6ad2a549-301a-4f72-9c39-ef2e00f9d915" />
+
+<img width="862" height="867" alt="image" src="https://github.com/user-attachments/assets/0acbad9e-7dc5-429a-b93c-1ed057a17771" />
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+--------------<b>Reflection Questions</b>--------------
+
+<b>1. How did the number of images per class affect your model’s accuracy?</b>
+     Having over 250 images per class provided a strong baseline, as a larger dataset generally helps the model "see" more variations of a plant. By keeping the number of images balanced across all classes, such as Tawa-tawa and Mayana, the model avoided becoming biased toward one specific species. However, while the quantity was high, the overall accuracy of 54.1% suggests that many images may have been too similar or included too much background noise, limiting the model's ability to generalize in new environments
+
+<b>2. Which plant species were most commonly misclassified and why?</b>
+     The most frequent misclassifications occurred between species like Escobilla, Hagonoy, and Hilbas because they share very similar vegetative features, such as green, serrated leaves and upright stems. To the model, these fine botanical differences are difficult to distinguish, especially when the background contains other greenery. In several photos, the presence of grass or weeds near the subject caused the model to "learn" the environment rather than the specific plant, leading to confusion when those same background elements appeared in other classes.
+
+<b>3. How did changing the epochs, batch size, or learning rate affect the training results?</b>
+     Adjusting the training settings played a crucial role in how the model converged. Increasing the epochs helped lower the initial loss, but going too high risked "overfitting," where the model memorizes the training photos instead of learning how to identify the plant's actual features. A smaller batch size allowed the model to update its weights more frequently for granular learning, while a carefully tuned learning rate was necessary to ensure the model reached its peak accuracy without "overshooting" the most important visual patterns.
+
+<b>4. What challenges did you encounter during dataset collection and labeling?</b>
+     The physical accessibility of certain species in their natural habitats, as plants like Bugang or Hagonoy often grow in dense, overgrown areas that make clear photography difficult. The presence of co-occurring vegetation in the frame meant the model frequently struggled to distinguish the target plant from the surrounding weeds. Furthermore, the variable growth stages of the plants—where a young Mayana looks significantly different from a mature one—made it hard for the model to find a single, consistent "signature" for each class.
+
+<b>5. If you were to improve your model, what specific changes would you make and why?</b>
+     To improve accuracy, I would photograph leaves against a neutral, solid background to force the model to focus on leaf architecture. Adding specific photos of unique features—like the white flowers of Bugang—and using data augmentation (cropping/rotating) would also help the model recognize plants in various conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

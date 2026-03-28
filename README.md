@@ -27,9 +27,9 @@ Candy Apple Clair L. Rayon
 
 ![14](https://github.com/user-attachments/assets/bf31c54e-1217-4901-820b-60450c0ad25d)
 
-<b>Common Name: Escobilla </b>
+<b>Common Name:</b> Escobilla 
 
-<b>Scientific Name: Sida Cuta </b>
+<b>Scientific Name:</b>  Sida Cuta 
 
 <b>Description:</b>
  A hardy, upright shrub characterized by its small, saw-toothed leaves and pale yellow flowers. It is widely recognized for its tough, woody stems, which are traditionally bundled together to create makeshift brooms. In herbal medicine, it is often used for its antibacterial and anti-inflammatory properties.
@@ -41,9 +41,9 @@ ________________________________________________________________________________
 
 ![91](https://github.com/user-attachments/assets/c45126dc-9608-4727-90bc-9e242ededf04)
 
-<b>Common Name: Hilbas or Damong Maria</b>
+<b>Common Name:</b> Hilbas or Damong Maria
 
-<b>Scientific Name: Artemisia vulgaris </b>
+<b>Scientific Name: </b> Artemisia Vulgaris
 
 <b>Description:</b>
  A fragrant, perennial herb characterized by its deeply lobed, grayish-green leaves with silvery-white undersides. It is highly valued in traditional medicine for its aromatic properties and is commonly used to treat digestive issues, skin irritations, and respiratory conditions. In many local cultures, it is also known for its use in herbal decoctions and as a natural insect repellent.
